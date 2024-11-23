@@ -48,10 +48,5 @@ The dataset includes:
    - Train the models
    - Visualize the results
 
-## Visualization
 
-The project includes visualization of model comparisons using matplotlib, showing:
-- Accuracy comparisons across different dataset sizes
-- Performance metrics for each model
-- Comparative bar charts
 
